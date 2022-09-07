@@ -28,6 +28,24 @@
           "date": "December 20 2022",
           "time": "12:00",
           "organizer": "W3Devs"
+      },{
+          "id": 5928104,
+          "category": "LAMP",
+          "title": "LAMP Stack-2022",
+          "description": "Find your new feline",
+          "location": "Dhaka",
+          "date": "December 20 2022",
+          "time": "12:00",
+          "organizer": "TravelMate"
+      },{
+          "id": 5928105,
+          "category": "Dulk HJ",
+          "title": "Mark Gun",
+          "description": "Find your new feline",
+          "location": "Karachi",
+          "date": "Jun 20 2023",
+          "time": "14:00",
+          "organizer": "IJUK"
       }
   ]
 }
